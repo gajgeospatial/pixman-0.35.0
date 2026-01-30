@@ -6,24 +6,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pixman", "pixman.vcxproj", 
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		vs2019_Debug|x64 = vs2019_Debug|x64
-		vs2019_Debug|x86 = vs2019_Debug|x86
-		vs2019_Release|x64 = vs2019_Release|x64
-		vs2019_Release|x86 = vs2019_Release|x86
 		vs2022_Debug|x64 = vs2022_Debug|x64
 		vs2022_Debug|x86 = vs2022_Debug|x86
 		vs2022_Release|x64 = vs2022_Release|x64
 		vs2022_Release|x86 = vs2022_Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3EB7AFDD-82D5-4F1B-9FBF-64FC8AED3CAC}.vs2019_Debug|x64.ActiveCfg = vs2019_Debug|x64
-		{3EB7AFDD-82D5-4F1B-9FBF-64FC8AED3CAC}.vs2019_Debug|x64.Build.0 = vs2019_Debug|x64
-		{3EB7AFDD-82D5-4F1B-9FBF-64FC8AED3CAC}.vs2019_Debug|x86.ActiveCfg = vs2019_Debug|Win32
-		{3EB7AFDD-82D5-4F1B-9FBF-64FC8AED3CAC}.vs2019_Debug|x86.Build.0 = vs2019_Debug|Win32
-		{3EB7AFDD-82D5-4F1B-9FBF-64FC8AED3CAC}.vs2019_Release|x64.ActiveCfg = vs2019_Release|x64
-		{3EB7AFDD-82D5-4F1B-9FBF-64FC8AED3CAC}.vs2019_Release|x64.Build.0 = vs2019_Release|x64
-		{3EB7AFDD-82D5-4F1B-9FBF-64FC8AED3CAC}.vs2019_Release|x86.ActiveCfg = vs2019_Release|Win32
-		{3EB7AFDD-82D5-4F1B-9FBF-64FC8AED3CAC}.vs2019_Release|x86.Build.0 = vs2019_Release|Win32
 		{3EB7AFDD-82D5-4F1B-9FBF-64FC8AED3CAC}.vs2022_Debug|x64.ActiveCfg = vs2022_Debug|x64
 		{3EB7AFDD-82D5-4F1B-9FBF-64FC8AED3CAC}.vs2022_Debug|x64.Build.0 = vs2022_Debug|x64
 		{3EB7AFDD-82D5-4F1B-9FBF-64FC8AED3CAC}.vs2022_Debug|x86.ActiveCfg = vs2022_Debug|Win32
